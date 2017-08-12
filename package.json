@@ -1,0 +1,26 @@
+{
+  "name": "brionyk",
+  "version": "1.0.0",
+  "description": "not sure",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briony-k/express-workshop.git"
+  },
+  "keywords": [
+    "bangknock"
+  ],
+  "author": "bangknock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briony-k/express-workshop/issues"
+  },
+  "homepage": "https://github.com/briony-k/express-workshop#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-formidable": "^1.0.0"
+  }
+}
